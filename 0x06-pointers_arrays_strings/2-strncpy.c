@@ -1,4 +1,4 @@
-#include "main.h"
+#include "game.h"
 
 /**
  * _strncpy - Copies at most an inputted number
